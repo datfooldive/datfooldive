@@ -26,10 +26,7 @@ TypeScript • JavaScript • Go • Python
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datfooldive&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datfooldive&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=datfooldive&theme=transparent&border_radius=0" alt="GitHub Streak" /></a>
 
 ## Contact
 
