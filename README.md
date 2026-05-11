@@ -1,40 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=datfooldive;Arch+Linux+user;Terminal-first+workflow;Anime+%7C+Manga+%7C+Tech" />
-</p>
+<div align="center">
 
 # datfooldive
 
-```
-os          : Arch Linux (btw)
-editor      : Neovim
-workflow    : terminal-first
-interests   : anime, manga, new technology, wm ricing
-```
+*i like building things in the terminal and ricing my desktop way too much*
 
-## About
+<a href="https://t.me/datfooldive">telegram</a> · <a href="mailto:datfooldive@gmail.com">email</a>
 
-Arch Linux enthusiast focused on minimal and efficient workflows.  
-I build with a terminal-first mindset and constantly explore modern technology.
+| os | editor | lang | into |
+|---|---|---|---|
+| Arch / NixOS | Neovim | TS · JS · Go · Python | anime · manga · ricing · tech |
 
-## Languages & Tools
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,linux,neovim,git,bash" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,linux,neovim,git,bash" />
-</p>
-
-TypeScript • JavaScript • Go • Python
-
-## GitHub Stats
+currently tinkering with nixos and building stuff with typescript & go
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=datfooldive&theme=transparent&border_radius=0" alt="GitHub Streak" /></a>
 
-## Contact
+<img src="https://count.getloli.com/get/@datfooldive?theme=rule34" />
 
-Telegram: https://t.me/datfooldive  
-Email: datfooldive@gmail.com
-
-## Visitors
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@datfooldive?theme=rule34" />
-</p>
+</div>
